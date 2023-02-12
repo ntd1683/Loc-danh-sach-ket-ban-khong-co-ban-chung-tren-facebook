@@ -1,5 +1,3 @@
-vô link này : https://m.facebook.com/friends/center/requests/all/
-f12 và dán cái dưới vô : 
 function sleep(ms) {
       return new Promise(resolve => setTimeout(resolve, ms));
 }
