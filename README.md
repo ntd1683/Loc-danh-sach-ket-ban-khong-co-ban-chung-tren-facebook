@@ -2,7 +2,7 @@
 
 Lọc danh sách kết bạn không có bạn bè chung trên facebook Mọi người ấn file code và đọc hướng dẫn
 
-## Features
+## Đặc Điểm
 - Được Viết Bằng Ngôn Ngữ `JAVASCRIPT` và xử lý bằng `CONSOLE DEV TOOL` của trình duyệt
 
 ## Chuẩn Bị
