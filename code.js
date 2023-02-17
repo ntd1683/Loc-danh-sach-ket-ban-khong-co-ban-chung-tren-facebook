@@ -14,6 +14,7 @@ for (let i=0;i<select.length;i++)
 {
 		if(!select[i].textContent.includes("bạn chung"))
 		{
+			await sleep(1000);
 			button[i].click();
 			console.log(i);
 			select[i].remove();
