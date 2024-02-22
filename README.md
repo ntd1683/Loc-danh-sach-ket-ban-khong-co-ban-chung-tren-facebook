@@ -1,6 +1,7 @@
 # LỌC DANH SÁCH KẾT BẠN KHÔNG CÓ BẠN CHUNG TRÊN FACEBOOK
 
-Lọc danh sách kết bạn ( chỉ xóa tạm thời , cho mọi người dễ ấn chấp nhận vói các bạn có bạn chung ) không có bạn bè chung trên facebook. Mọi người ấn file code và đọc hướng dẫn
+Lọc danh sách kết bạn để tạm thời ẩn đi (chỉ ẩn đi tạm thời, giúp mọi người dễ dàng chấp nhận yêu cầu kết bạn từ những người có bạn chung. Mục đích của việc ẩn đi tạm thời là để bạn vẫn giữ được số lượng người theo dõi đó) không bao gồm những người bạn chung trên Facebook.
+Mọi người ấn file code và đọc hướng dẫn
 
 ## Đặc Điểm
 - Được Viết Bằng Ngôn Ngữ `JAVASCRIPT` và xử lý bằng `CONSOLE DEV TOOL` của trình duyệt
